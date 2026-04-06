@@ -1,1 +1,0 @@
-Archivo de prueba para saber si estan sincronizados nuestros git
